@@ -112,7 +112,7 @@ aşağıda ayrıntılı olarak açıklanmıştır.
  - **[RoleId]** ==> Kullanıcıya atanan rolün hangi rol oduğu bilgisini bilgilerini tutmak için kullanılır.
 
 ## Users
- - **[UserId]** ==> Atanan rolün hangi kullanıcıya ait olduğunu tutmaki için kullanılır.
+ - **[Id]** ==> Sıra numarası tutmak için kullanılır.
  - **[FirstName]** ==> Kullanıcının adını tutmak için kullanılır.
  - **[LastName]** ==> Kullanıcının soyadını tutmak için kullanılır.
  - **[UserName]** ==> Kullanıcınının sistem kullanğıcı adını tutmak için kullanılır.
