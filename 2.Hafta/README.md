@@ -103,7 +103,7 @@ aşağıda ayrıntılı olarak açıklanmıştır.
  - **[ShowImageUrl]** ==> Ürünün ilk gösterilecek resim bilgilerini tutmak için kullanılır.
  - **[CategoryId]** ==> Ürünün hangi kategoriye ait olduğu bilgisini tutmak için kullanılır.
 
-## Products
+## Roles
  - **[Id]** ==> Sıra numarası tutmak için kullanılır.
  - **[RoleName]** ==> Kullanıcılara atanacak rol bilgilerini tutmak için kullanılır.
 
@@ -111,7 +111,7 @@ aşağıda ayrıntılı olarak açıklanmıştır.
  - **[UserId]** ==> Atanan rolün hangi kullanıcıya ait olduğunu tutmaki için kullanılır.
  - **[RoleId]** ==> Kullanıcıya atanan rolün hangi rol oduğu bilgisini bilgilerini tutmak için kullanılır.
 
-## UserRoles
+## Users
  - **[UserId]** ==> Atanan rolün hangi kullanıcıya ait olduğunu tutmaki için kullanılır.
  - **[FirstName]** ==> Kullanıcının adını tutmak için kullanılır.
  - **[LastName]** ==> Kullanıcının soyadını tutmak için kullanılır.
